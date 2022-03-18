@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4788482af12e5e8489b047f74c9f6385
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - item: {instanceID: 0}
+  - telekinesis: {instanceID: 0}
+  - rb: {instanceID: 0}
+  - aimObject: {instanceID: 0}
+  - damageNotifier: {fileID: 4046327521209104007, guid: 2eb64453c465c2542ba9312850d05f8d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
